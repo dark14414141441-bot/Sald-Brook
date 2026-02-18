@@ -1,7 +1,3 @@
---=========================================================
-♰ KILLERS TEAM PASSOU AQUI! ♰
---=========================================================
-
 local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/dark14414141441-bot/Redz-v2/refs/heads/main/redzlib_blue.lua"))()
 workspace.FallenPartsDestroyHeight = -math.huge
 
